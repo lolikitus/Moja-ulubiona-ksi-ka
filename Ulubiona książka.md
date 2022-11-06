@@ -52,4 +52,14 @@ Książka opowiada historię młodego człowieka o imieniu Artem, który wyrusza
 
 Podczas swojej podróży napotyka wiele niebezpieczeństw.
 
+## Części
+
+| Nazwa        | Część           | Rok wydania  |
+| ------------- |:-------------:| -----:|
+| Metro 2033     | 1         | 2002 |
+| Metro 2034     | 2         | 2009 |
+| Metro 2035     | 3         | 2015 |
+
+<!--- W kodzie można dowolnie używać Latexa -->
+
 
