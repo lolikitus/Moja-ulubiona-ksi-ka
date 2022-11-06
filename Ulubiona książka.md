@@ -45,4 +45,11 @@ W książce tej jest kilka frakcji, które mają skrajne poglądy:
 * Jenda z pięciu największych frakcji
 ![&nbsp; Czwarta Rzesza](https://i.imgur.com/DWSQUV5.png)
 
+## Krótkie streszczenie
+
+### Fabuła
+Książka opowiada historię młodego człowieka o imieniu Artem, który wyrusza do Polis, aby ostrzec ludzkość przed zbliżającem się nowym niebezpieczeństwem z północy.
+
+Podczas swojej podróży napotyka wiele niebezpieczeństw.
+
 
