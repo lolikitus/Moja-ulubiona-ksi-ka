@@ -62,4 +62,9 @@ Podczas swojej podróży napotyka wiele niebezpieczeństw.
 
 <!--- W kodzie można dowolnie używać Latexa -->
 
+## Dlaczego lubię te opowiadanie
 
+``` Wyjaśnienie
+
+Według mnie ta książka porusza bardzo ciekawe tematy psychologi ludzkiej. Zanjduję się w gatunku literackim, który bardzo lubię post-apo.
+```
